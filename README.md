@@ -1,4 +1,4 @@
-# Unity_Viking
+# Mario Math
 This is my first game, it was made with raw Java libraries such as JFrame and without a game Engine(Bad Idea).
 
 The inspiration behind the game was to teach my friends brother what coding can do. The game also taught him some
